@@ -27,7 +27,7 @@ Follow these steps to get your BabyDoge BOT up and running:
 1. **Clone the repository**
 
    ```
-   git clone https://github.com/Galkurta/BabyDoge-BOT.git
+   git clone https://github.com/himiko3939/babydoge.git
    cd BabyDoge-BOT
    ```
 
